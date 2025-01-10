@@ -1,0 +1,67 @@
+{
+    "projects": [{
+        "id": 1,
+        "name": "Introduction to FrontEnd",
+        "description": "Description of what HMTL, CSS, JS is"
+    },
+    {
+        "id": 2,
+        "name": "Web layout. Basic HTML",
+        "description": "HTML basics and the first version of the website"
+    },
+    {
+        "id": 3,
+        "name": "Basic CSS",
+        "description": "CSS Basics, Selectors, specificity, fonts, display, flex, grid, position, meta expressions"
+    },
+    {
+        "id": 4,
+        "name": "JS database",
+        "description": "Standard Library, MDN, webreference, JS connection, variables, functions, logging and debugging, modules"
+    },
+    {
+        "id": 5,
+        "name": "JS base+",
+        "description": "Data types, Basic operators, Conditional operators, Implicit and explicit conversion, Comparison operators, Ternary operators, Arrays and their methods part 1/2, Objects"
+    },
+    {
+        "id": 6,
+        "name": "Terminal, git",
+        "description": "Git, Commit, Branches in Git, Getting to know Git web services, working with remote repository and git push/pull commands"
+    },
+    {
+        "id": 7,
+        "name": "Advanced Layout",
+        "description": "Media Expressions, Figma, Pixel Perfect, Adaptive Images"
+    },
+    {
+        "id": 8,
+        "name": "Node.js, npm and assemblers",
+        "description": "Introduction to Node.js, JSON introduction, Object Initialization via npm, libraries, .gitignore, Plug-in libraries, Work with the yarn package manager, etc."
+    },
+    {
+        "id": 9,
+        "name": "Some interesting and (extremely) useful tools",
+        "description": "ESLint, prettier, Lighthouse, ngrock, serveo, Sentry, Postman, Vite"
+    },
+    {
+        "id": 10,
+        "name": "JS: asynchrony",
+        "description": "Event Loop, setTimeout, Promise, Async/await, working with asynchronous functions, Creating and using asynchronous iterators, Generators, fetch, etc."
+    },
+    {
+        "id": 11,
+        "name": "WebSocket",
+        "description": "WebSocket introduction, Overview of typical WebSocket use cases, Creating a simple WebSocket connection"
+    },
+    {
+        "id": 12,
+        "name": "Typescript",
+        "description": "Introduction to TS, Basic Types, Import/Export, Arrays and Objects, Union and Literals, Type Conversion (as), Tour guard, Enums, etc."
+    },
+    {
+        "id": 13,
+        "name": "Testing",
+        "description": "Introduction to Web Application Testing, Automated Testing, Manual Testing, Integration Testing, Mocha, Chai, Cypress"
+    }]
+}
